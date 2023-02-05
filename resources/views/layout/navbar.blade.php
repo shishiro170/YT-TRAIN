@@ -21,7 +21,7 @@
             <div class="column">
                 <div class="search-box">                
                 <input type="text" class="search-input" placeholder="Search">
-                <input type="text" name="" value="Search">
+                <input type="text" name="" value="Searddddasdasd">
                     <a href="#" class="search-button">
                         <i class="fa-solid fa-magnifying-glass"></i>
                     </a>
